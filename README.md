@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on Unity and Visual Studio
 - 🌱 I’m currently learning C#
-- link to [My LinkedIn](https://www.linkedin.com/in/deniztonka/)
+- How to reach me: [My LinkedIn](https://www.linkedin.com/in/deniztonka/)
 
-- 
+
 <!--
 **tonka14/tonka14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
