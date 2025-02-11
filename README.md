@@ -4,9 +4,9 @@
 - 🔭 Mostly working with C# and Unity
 - ⚡ But actually making project with a lot of things
  
-- 🔭 I’m currently working on Unity and Visual Studio
-- 🌱 I’m currently learning C#
-- 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/deniztonka/)
+- 🔭 I’m currently working on Unity , Unreal Engine and Visual Studio
+- 📫 How to reach me: adt-ton@hotmail.com
+ [My LinkedIn] (https://www.linkedin.com/in/deniztonka/)
 
 
 <!--
