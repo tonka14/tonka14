@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Deniz Tonka 👋</h1>
 
 <p align="center">
-  🎮 Junior Game Developer | 💻 Unity & C# Enthusiast <br>
+  🎮 Game Developer | 💻 Unity & C# Enthusiast <br>
   ⚙️ Currently exploring: Unreal Engine, Unity, and Visual Studio <br>
   📫 Reach me at: <a href="mailto:adt-ton@hotmail.com">adt-ton@hotmail.com</a> |
   <a href="https://www.linkedin.com/in/deniztonka/">LinkedIn</a>
@@ -13,8 +13,6 @@
 - 💻 Languages: `C#`, `Python`, `JavaScript (basic)`
 - 🎮 Game Engines: `Unity`, `Unreal Engine`
 - 🛠 Tools: `Visual Studio`, `VS Code`, `Git`, `GitHub`
-- 📦 Version Control: `Git`, `GitHub`
-
 ---
 
 ### 🧩 What I'm working on
