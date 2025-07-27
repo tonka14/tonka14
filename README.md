@@ -1,25 +1,42 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Deniz Tonka 👋</h1>
 
-- 😄 I'm Deniz Tonka
-- 🔭 Mostly working with C# and Unity
-- ⚡ But actually making project with a lot of things
- 
-- 🔭 I’m currently working on Unity , Unreal Engine and Visual Studio
-- 📫 How to reach me: adt-ton@hotmail.com
- [My LinkedIn] (https://www.linkedin.com/in/deniztonka/)
+<p align="center">
+  🎮 Junior Game Developer | 💻 Unity & C# Enthusiast <br>
+  ⚙️ Currently exploring: Unreal Engine, Unity, and Visual Studio <br>
+  📫 Reach me at: <a href="mailto:adt-ton@hotmail.com">adt-ton@hotmail.com</a> |
+  <a href="https://www.linkedin.com/in/deniztonka/">LinkedIn</a>
+</p>
 
+---
 
-<!--
-**tonka14/tonka14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 Tech Stack
+- 💻 Languages: `C#`, `Python`, `JavaScript (basic)`
+- 🎮 Game Engines: `Unity`, `Unreal Engine`
+- 🛠 Tools: `Visual Studio`, `VS Code`, `Git`, `GitHub`
+- 📦 Version Control: `Git`, `GitHub`
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩 What I'm working on
+- 🔄 Building and polishing Unity game templates (platformers, shooters, etc.)
+- 🧠 Learning advanced gameplay mechanics (AI, Save Systems, UI Flow)
+- 🧪 Experimenting with VR & Unreal Engine features
+
+---
+
+### 📌 Pinned Projects
+Check out my highlighted repositories:
+- 🧱 [`Platform Game`](https://github.com/tonka14/Platform-Game-) – Basic platformer mechanics with C#
+- 🚀 [`Space Shooter`](https://github.com/tonka14/Space-Shooter-Game-) – 2D arcade shooter demo
+- 😱 [`Horror Game`](https://github.com/tonka14/horror-project-game) – Forked project with my touches
+
+---
+
+### 🏆 Achievements
+- ✅ Completed multiple game prototypes solo and in teams
+- 🎯 Open to collaboration on Unity-based projects
+- 🌱 Always learning and improving
+
+---
+
+> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
